@@ -1,1 +1,1 @@
-# Projeto feito para aplicar os conhecimentos de javascript e manipulação do DOM.
+# Projeto feito para aplicar os conhecimentos aprendido no curso, utilizando javascript e manipulação no DOM.
