@@ -80,7 +80,7 @@ function criaP() {
 
 function somaNumeros(num1, num2){
     const resultado = num1 + num2;
-    return resultado.toFixed(0);
+    return resultado.toFixed(2);
 }
 
 function enviaResultado(msg, isValid) {
